@@ -1,1 +1,1 @@
-# demo-abtesting-udacity
+# List of Projects for Demo
