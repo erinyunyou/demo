@@ -6,6 +6,6 @@
 
 * Pretty Dashboard with R Markdown: (Coming Soon)
 
-* An End-to-End Machine Learning Project: (Coming Soon)
+* Home Credit Default Prediction with Machine Learning: (Coming Soon)
 
 * Spark Notes for Beginners: (Coming Soon) 
