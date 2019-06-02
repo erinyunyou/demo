@@ -4,8 +4,10 @@
 
   https://erinyunyou.github.io/demo/ab-testing-udacity.html
 
-* Pretty Dashboard with R Markdown: (Coming Soon)
+* Home Credit Default Prediction with Machine Learning:
 
-* Home Credit Default Prediction with Machine Learning: (Coming Soon)
+  https://erinyunyou.github.io/demo/credit-risk-prediction.html
 
 * Spark Notes for Beginners: (Coming Soon) 
+
+* Pretty Dashboard with R Markdown: (Coming Soon)
